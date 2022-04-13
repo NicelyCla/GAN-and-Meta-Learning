@@ -1,4 +1,4 @@
-# GAN-and-Meta-Learning-with-thesis
+# GAN-and-Meta-Learning-(with-thesis)
 In this work, different GAN architectures have been proposed whose goal is the generalization of the weights acquired during training. In particular, a training paradigm based on meta-learning was used.<br />
 The ability to adapt previous knowledge to new situations is a distinctive feature of human intelligence. It tends to solve a large number of problems with a reduced observation of the available examples.<br />
 In contrast, artificial intelligence systems use an increasing amount of data to solve very specific problems.
