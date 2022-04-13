@@ -20,3 +20,5 @@ The proposed architecture, in particular, the 2MLP approach returned qualitative
 The propensity to imitate domains never seen before by 2MLP is highlighted, based on other weights acquired through other domains.<br />
 The OMNIGLOT dataset, being very small, instead highlighted the ability to be able to imitate domains excluded from the training phase, starting from a few examples available.<br />
 The result was possible thanks to the application of Meta-Learning. This alternative training paradigm has proved to be quite valid, and is particularly useful in situations where the available data is insufficient.
+<br /><br />
+<i>This work took me a long time, I still remember my lonely Christmas in the city of Parma while I was training the various models and collecting data. I sincerely thank the people who followed me throughout the writing of the thesis and left me maximum freedom to express my ideas.</i>
