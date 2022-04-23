@@ -1,9 +1,9 @@
-# GAN-and-Meta-Learning-(with-thesis)
+# GAN-and-Meta-Learning
 In this work, have been proposed different GAN architectures whose goal is the generalization of the weights acquired during training. In particular, was used a training paradigm based on meta-learning.<br />
 The ability to adapt previous knowledge to new situations is a distinctive feature of human intelligence. It tends to solve a large number of problems with a reduced observation of the available examples.<br />
 In contrast, artificial intelligence systems use an increasing amount of data to solve very specific problems.
 Getting closer to the efficiency of human learning would turn this problem around.<br /><br />
-Meta-Learning is a subfield of Machine Learning, it is aimed at the search for new and more efficient learning paradigms. The aim is to try to compensate as much as possible for the enormous gap between humans and machines. Meta-Learning is one of the central topics of this thesis. Despite the existence of multiple algorithms, it was decided to use Reptile, an algorithm introduced by Nichol, Achiam and Schulman.<br />
+Meta-Learning is a subfield of Machine Learning, it is aimed at the search for new and more efficient learning paradigms. The aim is to try to compensate as much as possible for the enormous gap between humans and machines. Meta-Learning is one of the central topics of this work. Despite the existence of multiple algorithms, it was decided to use Reptile, an algorithm introduced by Nichol, Achiam and Schulman.<br />
 Another central aspect of this work concerns the issue of generating new images using a technology called Generative Adversarial Networks (GAN).<br />
 When we talk about GAN architecture we refer to two or more neural networks that interact with each other, the Discriminator and the Generator.<br /><br />
 The idea of this work is to combine Meta-Learning with a GAN, <b>with the peculiarity of maintaining the classic training paradigm for the Generator and applying Reptile to other models of architecture</b>. The aim is to make it possible to generate unseen domains, reconstructing the new data starting from the generalized weights during the training phase. Despite the exclusion of Reptile from the generator, all the benefits of the new paradigm will be preserved.<br /><br />
