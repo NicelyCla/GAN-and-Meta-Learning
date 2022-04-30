@@ -10,7 +10,7 @@ The idea of this work is to combine Meta-Learning with a GAN, <b>with the peculi
 <img src="https://github.com/NicelyCla/GAN-and-Meta-Learning-with-thesis/blob/main/meta-iter.png" alt="meta-learning">
 
 ------------------------------------
-<h2>The Thesis:</h2>
+<h2>The Thesis (italian):</h2>
 <b>Chapter 1</b> concerns the state of the art, some basic concepts will be introduced, with particular attention to neural networks, different GAN architectures and Meta-Learning. Algorithms such as MAML and Reptile will be described, highlighting their differences.<br /><br />
 <b>Chapter 2</b> deals with the description of the proposed system. The various hypotheses advanced during the writing of the work are presented. In particular, it describes the process that led to the application of Reptile to the GAN architecture, excluding the Generator from the latter. More approaches called 1MLP or 2MLP are proposed which will be compared.<br />
 The result of Reptile's application to the proposed GAN is a self-conditioned architecture similar to a standard cDCGAN, which however retains the advantages of meta-learning and is much more flexible in learning new image domains.<br />
