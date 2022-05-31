@@ -26,7 +26,7 @@ The result was possible thanks to the application of Meta-Learning. This alterna
 <br /><br />
 
 ------------------------------------
-<a title="The reference paper can be found at the following link" href="https://link.springer.com/chapter/10.1007/978-3-031-06427-2_54" target="_blank" >
+<a title="The reference paper can be found at the following link" href="https://link.springer.com/chapter/10.1007/978-3-031-06427-2_54" target="_blank" ></a>
 
 ------------------------------------
 
