@@ -26,4 +26,8 @@ The result was possible thanks to the application of Meta-Learning. This alterna
 <br /><br />
 
 ------------------------------------
+<a title="The reference paper can be found at the following link" href="https://link.springer.com/chapter/10.1007/978-3-031-06427-2_54" target="_blank" >
+
+------------------------------------
+
 <i>This work took me a long time, I still remember my lonely Christmas in the city of Parma (IT) while I was training the various models and collecting data with my junk computers. I sincerely thank the people who followed me throughout the writing of the thesis and left me maximum freedom to express my ideas.</i>
