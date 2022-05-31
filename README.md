@@ -10,7 +10,7 @@ The idea of this work is to combine Meta-Learning with a GAN, <b><i>with the pec
 <img src="https://github.com/NicelyCla/GAN-and-Meta-Learning-with-thesis/blob/main/meta-iter.png" alt="meta-learning">
 
 ------------------------------------
-<h2>The Thesis (italian):</h2>
+## The Thesis (italian):
 <b>Chapter 1</b> concerns the state of the art, some basic concepts will be introduced, with particular attention to neural networks, different GAN architectures and Meta-Learning. Algorithms such as MAML and Reptile will be described, highlighting their differences.<br /><br />
 <b>Chapter 2</b> deals with the description of the proposed system. The various hypotheses advanced during the writing of the work are presented. In particular, it describes the process that led to the application of Reptile to the GAN architecture, excluding the Generator from the latter. More approaches called 1MLP or 2MLP are proposed and subsequently, they will be compared.<br />
 The result of Reptile's application to the proposed GAN is a self-conditioned architecture similar to a standard cDCGAN, which however retains the advantages of meta-learning and is much more flexible in learning new image domains.<br />
@@ -26,7 +26,7 @@ The result was possible thanks to the application of Meta-Learning. This alterna
 <br /><br />
 
 ------------------------------------
-<i><a href="https://link.springer.com/chapter/10.1007/978-3-031-06427-2_54" target="_blank" >The reference paper can be found at the following link</a></i>
+
 ## References
 <a id="1">[1]</a> 
 Fontanini, T., Praticò, C., Prati, A. (2022). Towards Latent Space Optimization of GANs Using Meta-Learning. In: Sclaroff, S., Distante, C., Leo, M., Farinella, G.M., Tombari, F. (eds) Image Analysis and Processing – ICIAP 2022. ICIAP 2022. Lecture Notes in Computer Science, vol 13231. Springer, Cham. https://doi.org/10.1007/978-3-031-06427-2_54
