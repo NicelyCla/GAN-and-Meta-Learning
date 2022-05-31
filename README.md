@@ -27,6 +27,9 @@ The result was possible thanks to the application of Meta-Learning. This alterna
 
 ------------------------------------
 <i><a href="https://link.springer.com/chapter/10.1007/978-3-031-06427-2_54" target="_blank" >The reference paper can be found at the following link</a></i>
+## References
+<a id="1">[1]</a> 
+Fontanini, T., Praticò, C., Prati, A. (2022). Towards Latent Space Optimization of GANs Using Meta-Learning. In: Sclaroff, S., Distante, C., Leo, M., Farinella, G.M., Tombari, F. (eds) Image Analysis and Processing – ICIAP 2022. ICIAP 2022. Lecture Notes in Computer Science, vol 13231. Springer, Cham. https://doi.org/10.1007/978-3-031-06427-2_54
 
 ------------------------------------
 
