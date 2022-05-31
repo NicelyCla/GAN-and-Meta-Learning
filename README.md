@@ -30,4 +30,4 @@ The result was possible thanks to the application of Meta-Learning. This alterna
 
 ------------------------------------
 
-<i>This work took me a long time, I still remember my lonely Christmas in the city of Parma (IT) while I was training the various models and collecting data with my junk computers. I sincerely thank the people who have trusted me and left maximum freedom to express my ideas. It was my first experience of full participation in a research context and I will always carry it with me.</i>
+<center><i>This work took me a long time, I still remember my lonely Christmas in the city of Parma (IT) while I was training the various models and collecting data with my junk computers. I sincerely thank the people who have trusted me and left maximum freedom to express my ideas. It was my first experience of full participation in a research context and I will always carry it with me.</i></center>
