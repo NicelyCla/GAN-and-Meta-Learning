@@ -7,7 +7,7 @@ Meta-Learning is a subfield of Machine Learning, it is aimed at the search for n
 Another central aspect of this work concerns the issue of generating new images using a technology called Generative Adversarial Networks (GAN).<br />
 When we talk about GAN architecture we refer to two or more neural networks that interact with each other, the Discriminator and the Generator.<br /><br />
 The idea of this work is to combine Meta-Learning with a GAN, <b><i>with the peculiarity of maintaining the classic training paradigm for the Generator and applying Reptile to other models of architecture</i></b>. The aim is to make it possible to generate unseen domains, reconstructing the new data starting from the generalized weights during the training phase. Despite the exclusion of Reptile from the generator, all the benefits of the new paradigm will be preserved.<br /><br />
-<img src="https://github.com/NicelyCla/GAN-and-Meta-Learning-with-thesis/blob/main/meta-iter.png" alt="meta-learning">
+![](meta-iter.png)
 
 ------------------------------------
 ## The Thesis (italian):
