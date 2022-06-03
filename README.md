@@ -30,10 +30,21 @@ The OMNIGLOT dataset, being very small, instead highlighted the ability to be ab
 The result was possible thanks to the application of Meta-Learning. This alternative training paradigm has proved to be quite valid, and is particularly useful in situations where the available data is insufficient.
 <br /><br />
 
-## Our paper
+## Our related work
 <a id="1">[1]</a> 
 Fontanini, T., Praticò, C., Prati, A. (2022). Towards Latent Space Optimization of GANs Using Meta-Learning. In: Sclaroff, S., Distante, C., Leo, M., Farinella, G.M., Tombari, F. (eds) Image Analysis and Processing – ICIAP 2022. ICIAP 2022. Lecture Notes in Computer Science, vol 13231. Springer, Cham. https://doi.org/10.1007/978-3-031-06427-2_54
 
 ------------------------------------
+If this job was useful to you, please cite our following article.
+```
+@inproceedings{fontanini2022towards,
+  title={Towards Latent Space Optimization of GANs Using Meta-Learning},
+  author={Fontanini, Tomaso and Pratic{\`o}, Claudio and Prati, Andrea},
+  booktitle={International Conference on Image Analysis and Processing},
+  pages={646--657},
+  year={2022},
+  organization={Springer}
+}
+```
 
 <i>This work took me a long time, I still remember my lonely Christmas in the city of Parma (IT) while I was training the various models and collecting data with my junk computers. I sincerely thank the people who have trusted me and left maximum freedom to express my ideas. It was my first experience of full participation in a research context and I will always carry it with me.</i>
