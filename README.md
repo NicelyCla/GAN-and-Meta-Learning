@@ -23,14 +23,12 @@ The basic architecture modified during the work is based on DCGAN and WGAN-gp, d
 Reports the experimental results from the metrics score obtained by training the system described with Meta-Learning. The scores will be compared to other standard architectures, such as cDCGAN. The metrics used to confirm the hypothesis of operation are: Frechet Inception Distance (FID) and Inception Score (IS).
 More training was carried out on different datasets, in particular: MNIST, CIFAR10 and OMNIGLOT. On each of them the scores were evaluated using metrics about the quality of the generations.<br /><br />
 
-------------------------------------
+## Experimental data to support the hypothesis
 The proposed architecture, in particular, the 2MLP approach returned qualitatively superior data compared to a classic cDCGAN, which is unable to generalize. This not only demonstrates the central hypothesis of this work, but also makes architecture a more flexible alternative to cDCGAN.
 The propensity to imitate domains never seen before by 2MLP is highlighted, based on other weights acquired through other domains.<br />
 The OMNIGLOT dataset, being very small, instead highlighted the ability to be able to imitate domains excluded from the training phase, starting from a few examples available.<br />
 The result was possible thanks to the application of Meta-Learning. This alternative training paradigm has proved to be quite valid, and is particularly useful in situations where the available data is insufficient.
 <br /><br />
-
-------------------------------------
 
 ## References
 <a id="1">[1]</a> 
