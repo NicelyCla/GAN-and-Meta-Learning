@@ -32,6 +32,7 @@ The result was possible thanks to the application of Meta-Learning. This alterna
 
 ## Example
 ![](example.png)
+
 Reconstruction with only k=16 shots of a domain never learned, Reptile on 100 tasks (OMNIGLOT).
 
 ## Our related work
